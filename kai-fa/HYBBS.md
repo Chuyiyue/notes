@@ -1,6 +1,6 @@
 ## HYBBS 手机APP 发布&自助编译&使用教程
 
-[bbs.hyphp.cn](http://bbs.hyphp.cn/t/1275.html)admin
+[bbs。hyphp.cn](http://bbs.hyphp.cn/t/1275.html)admin
 
  HYBBS 手机APP正式完工，之前因框架开发遇到困难导致开发进度缓慢。解决一系列问题后框架测试稳定正常，在此正式发布。
 
