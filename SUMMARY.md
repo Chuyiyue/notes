@@ -24,10 +24,14 @@
   * [手把手教你安装激活Office 365 - 哔哩哔哩](<test/手把手教你安装激活Office 365 - 哔哩哔哩.md>)
   * [通用腿型矫正示意图](test/通用腿型矫正示意图.md)
 * [开发](kai-fa/README.md)
-  * [HYBBS 手机APP 发布自助编译使1947990733](<开发/HYBBS 手机APP 发布自助编译使1947990733.md>)
-  * [新游社修复版猫爪社区功能修复-816142882](kai-fa/xin-you-she-xiu-fu-ban-mao-zhao-she-qu-gong-neng-xiu-fu-816142882.md)
-  * [芥末社区旧版操作手册309395036](kai-fa/jie-mo-she-qu-jiu-ban-cao-zuo-shou-ce-309395036.md)
-  * [RuleAPP详细设置教程手把手教你学会1856108308](kai-fa/ruleapp-xiang-xi-she-zhi-jiao-cheng-shou-ba-shou-jiao-ni-xue-hui-1856108308.md)
-  * [RuleUser安装及配置教程让你的Ty1856111865](kai-fa/ruleuser-an-zhuang-ji-pei-zhi-jiao-cheng-rang-ni-de-ty1856111865.md)
-  * [安卓软件编译1775063429](kai-fa/an-zhuo-ruan-jian-bian-yi-1775063429.md)
-* [个人樱花引导页](开发/README.md)
+  * [HYBBS 手机APP 发布自助编译](kai-fa/hybbs-shou-ji-app-fa-bu-zi-zhu-bian-yi.md)
+  * [新游社修复版猫爪社区功能修复](kai-fa/xin-you-she-xiu-fu-ban-mao-zhao-she-qu-gong-neng-xiu-fu-816142882.md)
+  * [芥末社区旧版操作手册](kai-fa/jie-mo-she-qu-jiu-ban-cao-zuo-shou-ce.md)
+  * [RuleAPP详细设置教程](kai-fa/ruleapp-xiang-xi-she-zhi-jiao-cheng.md)
+  * [RuleUser安装及配置教程](kai-fa/ruleuser-an-zhuang-ji-pei-zhi-jiao-cheng-rang-ni-de-ty1856111865.md)
+  * [安卓软件编译](kai-fa/an-zhuo-ruan-jian-bian-yi.md)
+* [个人樱花引导页](ge-ren-ying-hua-yin-dao-ye.md)
+
+## 药学
+
+* [Page 1](yao-xue/page-1.md)
