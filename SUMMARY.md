@@ -35,5 +35,5 @@
 ## 药学
 
 * [Page](yao-xue/page.md)
-* [Page 2](yao-xue/page-2.md)
 * [Page 1](yao-xue/page-1.md)
+* [Page 2](yao-xue/page-2.md)
